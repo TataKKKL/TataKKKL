@@ -27,6 +27,10 @@
 ---
 ### AI
 
+<img align="left" alt="PyTorch" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Spark" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original.svg" /><br />
+
+<br/>
 
 ### Frontend
 
