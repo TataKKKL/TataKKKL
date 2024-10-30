@@ -14,6 +14,8 @@
 ### PathOn-AI
 
 <p align="left">
+    <a href="https://github.com/PathOnAI">
+        <img src="https://img.shields.io/badge/PathOnAI-GitHub-black?style=for-the-badge&logo=github" height="28"></a>
     <a href="https://discord.gg/XwvEyVhdw3">
         <img src="https://img.shields.io/badge/Community-Discord-8A2BE2" height="28"></a>
     <a href="https://github.com/PathOnAI?tab=followers">
