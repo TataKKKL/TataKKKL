@@ -42,7 +42,6 @@
 
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="FastAPI" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" />
-<img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><br />
 
 <br/>
 
