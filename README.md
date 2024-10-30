@@ -51,6 +51,8 @@
 
 <img align="left" alt="Supabase" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
 <img align="left" alt="Vercel" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" />
+<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
 
 
 <br/>
