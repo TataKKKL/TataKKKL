@@ -10,9 +10,10 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28"></a>
 </p>
 
+---
+### PathOn-AI
+
 <p align="left">
-    <a href="https://github.com/PathOnAI">
-        <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" height="28"></a>
     <a href="https://discord.gg/XwvEyVhdw3">
         <img src="https://img.shields.io/badge/Community-Discord-8A2BE2" height="28"></a>
     <a href="https://github.com/PathOnAI?tab=followers">
