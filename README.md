@@ -2,6 +2,15 @@
 **`AIML + Product + Software Development + Research`**
 
 <p align="left">
+    <a href="https://scholar.google.com/citations?user=Ql3XS98AAAAJ&hl=en">
+        <img src="https://img.shields.io/badge/Scholar-Google-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="28"></a>
+    <a href="https://www.linkedin.com/in/danni-zhang5/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+    <a href="https://twitter.com/Danqing_Z">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28"></a>
+</p>
+
+<p align="left">
     <a href="https://discord.gg/XwvEyVhdw3">
         <img src="https://img.shields.io/badge/Community-Discord-8A2BE2" height="28"></a>
     <a href="https://github.com/PathOnAI?tab=followers">
