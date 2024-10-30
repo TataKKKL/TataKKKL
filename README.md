@@ -50,9 +50,8 @@
 ### Services
 
 <img align="left" alt="Supabase" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
-<img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br />
+<img align="left" alt="Vercel" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" />
+
 
 <br/>
 
