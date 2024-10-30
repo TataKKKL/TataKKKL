@@ -1,4 +1,5 @@
-## Hi there 👋
+## Danni (Danqing) Zhang
+**`AIML + Product + Software Development + Research`**
 
 <p align="left">
     <a href="https://discord.gg/XwvEyVhdw3">
