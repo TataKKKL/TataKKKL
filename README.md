@@ -1,4 +1,4 @@
-## Danni (Danqing) Zhang
+## Danni (Danqing) Z
 **`AIML + Product + Software Development + Research`**
 
 <p align="left">
