@@ -10,6 +10,9 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28"></a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=TataKKKL&theme=buefy&hide_border=false)
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=TataKKKL&theme=minimal" /> </div> 
 ---
 ### PathOn-AI
 
