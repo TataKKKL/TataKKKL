@@ -4,7 +4,6 @@
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=TataKKKL&theme=minimal" /> </div> 
 
 
-![](https://github-readme-stats.vercel.app/api?username=TataKKKL&theme=buefy&hide_border=false)
 
 
 ---
