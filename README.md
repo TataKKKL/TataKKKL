@@ -3,6 +3,15 @@
 
 I'm a hacker and builder based in San Francisco, with over 10 years of experience in AI/ML/DS. I'm currently exploring AI agents and learning full stack development. I am open to all types of collaboration. If you want to connect with me, send me an email at danqing.zhang.personal@gmail.com. We can meet in person if you are in the San Francisco Bay Area or Shanghai, China.
 
+<p align="left">
+    <a href="https://scholar.google.com/citations?user=Ql3XS98AAAAJ&hl=en">
+        <img src="https://img.shields.io/badge/Scholar-Google-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="28"></a>
+    <a href="https://www.linkedin.com/in/danni-zhang5/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+    <a href="https://twitter.com/Danqing_Z">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28"></a>
+</p>
+
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=TataKKKL&theme=minimal" /> </div> 
 
 ---
