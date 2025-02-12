@@ -3,6 +3,10 @@
 
 I'm a hacker and builder based in San Francisco, with over 10 years of experience in AI/ML/DS. I'm currently exploring AI agents and learning full stack development. I am open to all types of collaboration. If you want to connect with me, send me an email at danqing.zhang.personal@gmail.com. We can meet in person if you are in the San Francisco Bay Area or Shanghai, China.
 
+* learning: embodied ai, robotics
+* exploration: arc-agi, reasoning ai, deepseek R1
+* building: full stack SaaS apps empowered by ai agents, search + RL with LLM
+
 <p align="left">
     <a href="https://scholar.google.com/citations?user=Ql3XS98AAAAJ&hl=en">
         <img src="https://img.shields.io/badge/Scholar-Google-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="28"></a>
