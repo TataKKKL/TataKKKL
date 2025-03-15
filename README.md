@@ -18,6 +18,8 @@ I'm a hacker and builder based in San Francisco, with over 10 years of experienc
 * building: full stack SaaS apps empowered by ai agents, search + RL with LLM
 
 <p align="left">
+    <a href="https://discord.gg/UTxjyNwTeP">
+        <img src="https://img.shields.io/badge/Community-Discord-8A2BE2" height="28"></a>
     <a href="https://scholar.google.com/citations?user=Ql3XS98AAAAJ&hl=en">
         <img src="https://img.shields.io/badge/Scholar-Google-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="28"></a>
     <a href="https://www.linkedin.com/in/danni-zhang5/">
