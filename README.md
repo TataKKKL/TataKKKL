@@ -14,7 +14,6 @@ All-rounded engineer + scientist. I can literally do anything for early AI start
 I'm a hacker and builder based in San Francisco, with over 10 years of experience in AI/ML/DS. I'm currently exploring AI agents and learning full stack development. I am open to all types of collaboration. If you want to connect with me, send me an email at danqing.zhang.personal@gmail.com. We can meet in person if you are in the San Francisco Bay Area or Shanghai, China.
 
 * learning: embodied ai, robotics
-* exploration: arc-agi, reasoning ai
 * building: full stack SaaS apps empowered by ai agents, search + RL with LLM
 
 <p align="left">
