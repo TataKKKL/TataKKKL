@@ -11,8 +11,6 @@ All-rounded engineer + scientist. I can literally do anything for early AI start
 * Full stack + infra: Since 2025, end-to-end solo building fullstack apps, frontend using NextJS deployed on Vercel, backend using NextJS and FastAPI deployed as AWS ECS services
 * AI research: 20+ AI/ML papers, 700+ citations, founded a non-profit AI research community and wrote 2 papers (one accepted to NAACL 2025, one in submission)
 
-During this transition period, I decided to just learn what I've wanted to learn for years but couldn't find time for, and learn by building and shipping. Right now, in February and March, I have been busy upgrading my skills in fullstack and infrastructure so that I can work alone or be more helpful in team collaborations. From March to May, I am wrapping up my research work on Web Agent with three possible submissions. At the same time, I am learning RL agents/LLM agents and robotics, and also improving my LeetCode skills 😂, since I simply want to get better at it and unblock more opportunities. I got to know Huggingface LeRobot and SO-100 Robot, and I'm so excited that I can finally get my hands dirty learning hardware.
-
 ## Looking for collaborator
 I'm a hacker and builder based in San Francisco, with over 10 years of experience in AI/ML/DS. I'm currently exploring AI agents and learning full stack development. I am open to all types of collaboration. If you want to connect with me, send me an email at danqing.zhang.personal@gmail.com. We can meet in person if you are in the San Francisco Bay Area or Shanghai, China.
 
