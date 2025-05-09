@@ -2,6 +2,7 @@
 **`AIML + Product + Software Development + Research`**
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TataKKKL.TataKKKL)
+<img src="https://dcbadge.limes.pink/api/shield/tata_22402" alt="" />
 
 
 ## Intro
@@ -17,7 +18,6 @@ I'm a hacker and builder based in San Francisco, with over 10 years of experienc
 * learning: embodied ai, robotics
 * building: full stack SaaS apps empowered by ai agents, search + RL with LLM
 
-![](https://dcbadge.limes.pink/api/shield/tata_22402)
 
 <p align="left">
     <a href="https://discord.gg/UTxjyNwTeP">
