@@ -3,7 +3,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TataKKKL.TataKKKL)
 
-Discord Account&nbsp;&nbsp;&nbsp;![](https://dcbadge.limes.pink/api/shield/406125028065804289)
+Discord Account&nbsp;&nbsp;&nbsp;![](https://dcbadge.limes.pink/api/shield/821483110670925876)
 
 
 ## Intro
