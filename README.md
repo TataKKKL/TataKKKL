@@ -3,8 +3,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TataKKKL.TataKKKL)
 
-Discord Account&nbsp;&nbsp;&nbsp;![](https://dcbadge.limes.pink/api/shield/821483110670925876)
-
 
 ## Intro
 All-rounded engineer + scientist. I can literally do anything for early AI startups: Agentic Systems, ML/DL/RL model training, full stack + infra, AI research
