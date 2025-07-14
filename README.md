@@ -6,10 +6,10 @@
 
 ## Intro
 All-rounded engineer + scientist. I can literally do anything for early AI startups: Agentic Systems, ML/DL/RL model training, full stack + infra, AI research
-* Agentic Systems (LiteMultiAgent and LiteWebAgent open source repos, ~200 stars)
+* Agentic Systems (LiteMultiAgent/ LiteWebAgent/ VisualTreeSearch open source repos, ~200 stars)
 * DL/RL model training (since August 2017)
 * Full-stack + Infrastructure: Independently developing and deploying complete web applications (2025-present) with Next.js frontends on Vercel and Express.js/FastAPI backends on AWS ECS
-* AI research: 20+ AI/ML papers, 700+ citations, founded a non-profit AI research community and wrote 2 papers (one accepted to NAACL 2025, one in submission)
+* AI research: 20+ AI/ML papers, 700+ citations, founded a non-profit AI research community and wrote 2 papers (one accepted to NAACL 2025, one accepted to ECML-PKDD 2025)
 
 ## Looking for collaborator
 I'm a hacker and builder based in San Francisco, with over 10 years of experience in AI/ML/DS. I'm currently exploring AI agents and learning full stack development. I am open to all types of collaboration. If you want to connect with me, send me an email at danqing.zhang.personal@gmail.com. We can meet in person if you are in the San Francisco Bay Area or Shanghai, China.
