@@ -8,7 +8,7 @@
 All-rounded engineer + scientist. I can literally do anything for early AI startups: Agentic Systems, ML/DL/RL model training, full stack + infra, AI research
 * Agentic Systems (LiteMultiAgent and LiteWebAgent open source repos, ~200 stars)
 * DL/RL model training (since August 2017)
-* Full stack + infra: Since 2025, end-to-end solo building fullstack apps, frontend using NextJS deployed on Vercel, backend using NextJS and FastAPI deployed as AWS ECS services
+* Full-stack + Infrastructure: Independently developing and deploying complete web applications (2025-present) with Next.js frontends on Vercel and Express.js/FastAPI backends on AWS ECS
 * AI research: 20+ AI/ML papers, 700+ citations, founded a non-profit AI research community and wrote 2 papers (one accepted to NAACL 2025, one in submission)
 
 ## Looking for collaborator
