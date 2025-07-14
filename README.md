@@ -6,16 +6,11 @@
 
 ## Intro
 All-rounded engineer + scientist. I can literally do anything for early AI startups: Agentic Systems, ML/DL/RL model training, full stack + infra, AI research
+* Physical AI: PhD in Systems Engineering (Cyber-physical Systems) from UC Berkeley, with foundational experience in robotics and self-driving car projects (2017-2018) including a published paper on attention maps at ACCV. Since steering back to physical AI and robotics in May 2025, now bridging my expertise in spatial systems, transformer-based model training, and agentic systems to work on embodied agents for robotic task planning and VLA for robotic manipulation.
+* DL/RL model training: I was among the first batch to get hands-on experience with transformers (2018), Hugging Face transformers (2019), and LLMs (2021).
 * Agentic Systems (LiteMultiAgent/ LiteWebAgent/ VisualTreeSearch open source repos, ~200 stars)
-* DL/RL model training (since August 2017)
 * Full-stack + Infrastructure: Independently developing and deploying complete web applications (2025-present) with Next.js frontends on Vercel and Express.js/FastAPI backends on AWS ECS
 * AI research: 20+ AI/ML papers, 700+ citations, founded a non-profit AI research community and wrote 2 papers (one accepted to NAACL 2025, one accepted to ECML-PKDD 2025)
-
-## Looking for collaborator
-I'm a hacker and builder based in San Francisco, with over 10 years of experience in AI/ML/DS. I'm currently exploring AI agents and learning full stack development. I am open to all types of collaboration. If you want to connect with me, send me an email at danqing.zhang.personal@gmail.com. We can meet in person if you are in the San Francisco Bay Area or Shanghai, China.
-
-* learning: embodied ai, robotics
-* building: full stack SaaS apps empowered by ai agents, search + RL with LLM
 
 
 <p align="left">
