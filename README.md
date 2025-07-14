@@ -14,6 +14,8 @@ All-rounded engineer + scientist. I can literally do anything for early AI start
 
 
 <p align="left">
+    <a href="https://discord.gg/V6cNKmuR7Q">
+        <img src="https://dcbadge.limes.pink/api/server/V6cNKmuR7Q" height="28"></a>
     <a href="https://discord.gg/UTxjyNwTeP">
         <img src="https://dcbadge.limes.pink/api/server/UTxjyNwTeP" height="28"></a>
     <a href="https://scholar.google.com/citations?user=Ql3XS98AAAAJ&hl=en">
