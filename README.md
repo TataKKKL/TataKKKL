@@ -9,7 +9,7 @@ All-rounded engineer + scientist. I build everything end-to-end for early AI sta
 * **Physical AI & Robotics**: PhD in Systems Engineering (Cyber-Physical Systems) from UC Berkeley. Experienced in robotics and self-driving systems (2017–2018, ACCV paper on attention maps). Since 2025, re-focusing on **embodied agents** and **robotic task planning** — bridging **transformers**, **spatial reasoning**, and **RL-based manipulation**.
   * Platforms: `ROS2`, `WebRTC`, `Socket.IO`, `LeRobot`
   * Edge & Devices: `Raspberry Pi`, `myCobot 280`, `Hiwonder JetAuto`, `SO-101`
-  * Simulation & Fabrication: `Blender`, `Bambu Lab` (3D printing workflows)
+  * 3D Design & Fabrication: `Blender`, `Bambu Lab` (3D printing workflows)
 * **DL/RL Model Training**: Early adopter of Transformers (2018), Hugging Face (2019), and LLMs (2021).
 * **Agentic Systems**: Creator of *LiteMultiAgent*, *LiteWebAgent*, *VisualTreeSearch* (200+ stars total)
 * **Full-stack + Infrastructure**: Next.js frontends (Vercel) + Express/FastAPI backends (AWS ECS)
