@@ -1,17 +1,19 @@
 # TataKKKL
-**`AIML + Product + Software Development + Research`**
+**`AIML + Robotics + Product + Software Development + Research`**
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TataKKKL.TataKKKL)
 
-
 ## Intro
-All-rounded engineer + scientist. I can literally do anything for early AI startups: Agentic Systems, ML/DL/RL model training, full stack + infra, AI research
-* **Physical AI**: PhD in Systems Engineering (Cyber-physical Systems) from UC Berkeley, with foundational experience in robotics and self-driving car projects (2017-2018) including a published paper on attention maps at ACCV. Since steering back to physical AI and robotics in early 2025, now bridging my expertise in spatial systems, transformer-based model training, and agentic systems to work on embodied agents for robotic task planning and VLA for robotic manipulation.
-* **DL/RL model training**: I was among the first batch to get hands-on experience with transformers (2018), Hugging Face transformers (2019), and LLMs (2021).
-* **Agentic Systems**: (LiteMultiAgent/ LiteWebAgent/ VisualTreeSearch open source repos, ~200 stars)
-* **Full-stack + Infrastructure**: Independently developing and deploying complete web applications (2025-present) with Next.js frontends on Vercel and Express.js/FastAPI backends on AWS ECS
-* **AI research**: 20+ AI/ML papers, 700+ citations, founded a non-profit AI research community and wrote 2 papers (one accepted to NAACL 2025, one accepted to ECML-PKDD 2025)
+All-rounded engineer + scientist. I build everything end-to-end for early AI startups — from **agentic systems**, **ML/DL/RL model training**, and **AI research**, to **robotics**, **full-stack infra**, and **edge deployment**.
 
+* **Physical AI & Robotics**: PhD in Systems Engineering (Cyber-Physical Systems) from UC Berkeley. Experienced in robotics and self-driving systems (2017–2018, ACCV paper on attention maps). Since 2025, re-focusing on **embodied agents** and **robotic task planning** — bridging **transformers**, **spatial reasoning**, and **RL-based manipulation**.
+  * Platforms: `ROS2`, `WebRTC`, `Socket.IO`, `LeRobot`
+  * Edge & Devices: `Raspberry Pi`, `myCobot 280`, `Hiwonder JetAuto`, `SO-101`
+  * Simulation & Fabrication: `Blender`, `Bambu Lab` (3D printing workflows)
+* **DL/RL Model Training**: Early adopter of Transformers (2018), Hugging Face (2019), and LLMs (2021).
+* **Agentic Systems**: Creator of *LiteMultiAgent*, *LiteWebAgent*, *VisualTreeSearch* (200+ stars total)
+* **Full-stack + Infrastructure**: Next.js frontends (Vercel) + Express/FastAPI backends (AWS ECS)
+* **AI Research**: 20+ papers, 700+ citations, founded a non-profit AI research community (papers accepted to **NAACL 2025** and **ECML-PKDD 2025**)
 
 <p align="left">
     <a href="https://discord.gg/V6cNKmuR7Q">
@@ -26,17 +28,22 @@ All-rounded engineer + scientist. I can literally do anything for early AI start
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28"></a>
 </p>
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=TataKKKL&theme=minimal" /> </div> 
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TataKKKL&theme=minimal" />
+</div>
 
 ---
-### AI
+
+### 🤖 AI & Robotics
 
 <img align="left" alt="PyTorch" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="Spark" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original.svg" /><br />
+<img align="left" alt="ROS2" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" />
+<img align="left" alt="Raspberry Pi" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<img align="left" alt="Blender" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /><br />
 
 <br/>
 
-### Frontend
+### 💻 Frontend
 
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Nextjs" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
@@ -45,27 +52,25 @@ All-rounded engineer + scientist. I can literally do anything for early AI start
 
 <br/>
 
-### Backend
+### ⚙️ Backend
 
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="FastAPI" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" /><br />
+<img align="left" alt="FastAPI" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="SocketIO" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" /><br />
 
 <br/>
 
-### Database
+### 🗄️ Database
 
 <img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><br />
 
 <br/>
 
-### Services
+### ☁️ Infrastructure & Services
 
-<img align="left" alt="Supabase" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
-<img align="left" alt="Vercel" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" />
 <img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Supabase" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
+<img align="left" alt="Vercel" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" /><br />
 
-
-
-<br/>
 
