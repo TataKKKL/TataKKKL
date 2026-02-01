@@ -6,9 +6,9 @@
 ## Intro
 AI Researcher (first-author & principal investigator , 20+ papers at top conferences, 1k+ citations) × Full-Stack Engineer (Web/Mobile/Desktop, Data, ML, Infra, Robotics) × Community Builder (PathOnAI.org founder, SF LeRobot Hackathon winner) × Founder & CEO
 
-Google Scholar: https://scholar.google.com/citations?user=Ql3XS98AAAAJ&hl=en
-personal website: https://danqingz.github.io/
-email: danqing.zhang.personal@gmail.com
+* Google Scholar: https://scholar.google.com/citations?user=Ql3XS98AAAAJ&hl=en
+* personal website: https://danqingz.github.io/
+* email: danqing.zhang.personal@gmail.com
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=TataKKKL&theme=minimal" />
